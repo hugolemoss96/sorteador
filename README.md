@@ -7,3 +7,4 @@
   -CSS
   -JavaScript (Math random)
 </p>
+<img src="https://github.com/hugolemoss96/sorteador/blob/main/Assets/sorteador-img.JPG?raw=true">
